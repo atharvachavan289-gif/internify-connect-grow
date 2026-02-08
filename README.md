@@ -1,73 +1,96 @@
-# Welcome to your Lovable project
+# 🇮🇳 Internify - PM Internship Scheme Portal
 
-## Project info
+**Bridging the gap between ambitious students and top-tier opportunities across India.**
 
-**URL**: https://lovable.dev/projects/690d74c4-9157-4362-b99f-f4ece6bc39cf
+![Project Status](https://img.shields.io/badge/Status-Live-success)
+![Tech Stack](https://img.shields.io/badge/Stack-React_|_TypeScript_|_Tailwind-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 **Live Demo**
+👉 **[Visit the Live Portal](https://atharvachavan289-gif.github.io/internify-connect-grow/)**
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/690d74c4-9157-4362-b99f-f4ece6bc39cf) and start prompting.
+## 📜 **About The Project**
+**Internify** is a comprehensive internship portal designed to align with the **PM Internship Scheme (Government of India)** initiative. It serves as a centralized platform connecting students, companies, and administrators to facilitate seamless internship applications, tracking, and management.
 
-Changes made via Lovable will be committed automatically to this repo.
+### **Key Features**
+* **🎯 Role-Based Dashboards:** Dedicated interfaces for Students, Companies, and Admins.
+* **🌐 Multi-Language Support (i18n):** Fully localized in **English**, **Hindi**, and **Marathi** to support regional diversity.
+* **⚡ Smooth Navigation:** Smart scrolling features for effortless browsing of internships and events.
+* **🎨 Modern UI/UX:** Built with **Tailwind CSS** and **Shadcn UI** for a responsive, accessible, and clean design.
+* **🔔 Real-Time Interactions:** Instant "Toast" notifications for applications and updates.
+* **📊 Analytics:** Visual progress bars and stats for profile completion and application tracking.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ **Tech Stack**
+* **Framework:** [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+* **Language:** [TypeScript](https://www.typescriptlang.org/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Components:** [Shadcn UI](https://ui.shadcn.com/)
+* **Icons:** [Lucide React](https://lucide.dev/)
+* **Internationalization:** [i18next](https://www.i18next.com/)
+* **Routing:** [React Router DOM](https://reactrouter.com/)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📸 **Screenshots**
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+| **Student Dashboard** | **Language Support** |
+|:---:|:---:|
+| *(Add a screenshot of your dashboard here)* | *(Add a screenshot of your language menu here)* |
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 💻 **Getting Started (Local Development)**
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Follow these steps to run the project on your local machine:
 
-**Edit a file directly in GitHub**
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/atharvachavan289-gif/internify-connect-grow.git](https://github.com/atharvachavan289-gif/internify-connect-grow.git)
+    ```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+2.  **Navigate to the project folder**
+    ```bash
+    cd internify-connect-grow
+    ```
 
-**Use GitHub Codespaces**
+3.  **Install dependencies**
+    ```bash
+    npm install
+    ```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+4.  **Start the development server**
+    ```bash
+    npm run dev
+    ```
 
-## What technologies are used for this project?
+5.  **Open your browser**
+    Visit `http://localhost:8080` to view the app.
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🤝 **Contributing**
+Contributions are welcome! If you'd like to improve the translation support or add new features:
+1.  Fork the Project.
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
+4.  Push to the Branch (`git push origin feature/AmazingFeature`).
+5.  Open a Pull Request.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/690d74c4-9157-4362-b99f-f4ece6bc39cf) and click on Share -> Publish.
+## 👤 **Author**
+**Atharva Chavan**
+* **GitHub:** [@atharvachavan289-gif](https://github.com/atharvachavan289-gif)
+* **Location:** Navi Mumbai, India
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+<p align="center">
+  <i>Developed for the PM Internship Scheme Initiative 🇮🇳</i>
+</p>
